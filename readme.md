@@ -1,4 +1,6 @@
-# Miralis
+# Miralis - ACE demonstration
+
+### This repository is a demonstration of Miralis and ACE together
 
 Miralis is an experimental system that virtualises firmware to enforce strong isolation between opaque and SoC-dependant firmware and user-controlled hypervisor or operating system.
 
